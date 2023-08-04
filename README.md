@@ -1,5 +1,6 @@
 # 💫About Me :
 Working at: University of Information Technology
+Front-End Dev
 
 
 ## 🌐Socials
